@@ -1,0 +1,17 @@
+.add-question-container {
+    border-radius: 20px;
+    border: 3px dimgrey solid;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.question{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.add-new-answer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
